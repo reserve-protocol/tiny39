@@ -1,4 +1,4 @@
-module org/reserve/tiny39
+module github.com/reserve-protocol/tiny39
 
 go 1.19
 
